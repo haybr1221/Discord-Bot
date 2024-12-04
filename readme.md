@@ -1,7 +1,7 @@
 ## Overview
 
 **Project Title**:
-Discord Bot
+Scott Lang Discord Bot
 
 **Project Description**:
 A chatbot that reflects the personality of Scott Lang, that can also send messages from real quotes from his appearances in the Marvel Cinematic Universe
